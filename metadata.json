@@ -1,0 +1,6 @@
+{
+  "name": "ShopEase – E-Commerce Product Catalog",
+  "description": "A modern, responsive e-commerce web application featuring dynamic product catalog, category filters, instant search, product details, cart management with LocalStorage persistence, and checkout preview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
